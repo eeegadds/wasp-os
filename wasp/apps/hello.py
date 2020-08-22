@@ -5,7 +5,7 @@ import wasp
 
 class HelloApp():
     """A hello world application for wasp-os."""
-    NAME = "Hello"
+    NAME = "EGZ"
 
     def __init__(self, msg="Hello, world!"):
         self.msg = msg
